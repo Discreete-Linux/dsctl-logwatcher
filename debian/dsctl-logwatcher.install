@@ -1,0 +1,2 @@
+dsctl-logwatcher.conf.syslog-ng usr/share/dsctl-logwatcher
+dsctl-logwatcher.conf.rsyslog usr/share/dsctl-logwatcher

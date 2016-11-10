@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=logwatcher
+GenericName=Display a warning when filesystem errors are detected
+Exec=/usr/bin/dsctl-logwatcher.py
+Terminal=false
+Type=Application
+Categories=GNOME;X-GNOME-PersonalSettings;
+NoDisplay=true
+Name[de_DE]=dsctl-logwatcher.desktop

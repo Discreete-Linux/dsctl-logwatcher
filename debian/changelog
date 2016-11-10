@@ -1,0 +1,12 @@
+dsctl-logwatcher (0.2) jessie; urgency=low
+
+  * Rebuild for Jessie and Discreete Linux
+  
+ -- Discreete Linux Team <info@discreete-linux.org>  Fri, 21 Oct 2016 15:46:54 +0200
+
+upr-logwatcher (0.1-1) precise; urgency=low
+
+  [ UPR Team ]
+  * Initial release
+
+ -- UPR Team <info@privacy-cd.org>  Thu, 18 Jul 2013 16:05:35 +0200

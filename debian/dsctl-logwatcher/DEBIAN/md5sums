@@ -1,0 +1,6 @@
+9ce31e6e13c8bb8180de441d0356e2e8  usr/bin/dsctl-logwatcher.py
+8f8cfce4dbbeb62e78520641a9833525  usr/share/doc/dsctl-logwatcher/changelog.gz
+6563ad87aada7c91eb606800a3d02de7  usr/share/doc/dsctl-logwatcher/copyright
+3a18b6a01f9bb424f251fca18d3d0c66  usr/share/dsctl-logwatcher/dsctl-logwatcher.conf.rsyslog
+bd18974e93a41c41cd4fe82a2d464b54  usr/share/dsctl-logwatcher/dsctl-logwatcher.conf.syslog-ng
+daedae822e28f7b7c532bd2a5e3bda67  usr/share/locale/de/LC_MESSAGES/dsctl-logwatcher.mo

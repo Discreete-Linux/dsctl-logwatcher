@@ -1,0 +1,4 @@
+$ModLoad omuxsock
+$OMUxSockSocket /tmp/logwatcher.socket
+
+if $msg contains "FAT: Filesystem error" or $msg contains "EXT3-fs error" or $msg contains "disabled by hub" then :omuxsock:

@@ -1,0 +1,13 @@
+Package: dsctl-logwatcher
+Version: 0.2
+Architecture: all
+Maintainer: Discreete Linux Team <info@discreete-linux.org>
+Installed-Size: 65
+Depends: rsyslog | syslog-ng-core
+Section: utils
+Priority: extra
+Homepage: https://www.discreete-linux.org
+Description: Warns about filesystem errors
+ This is a little utility for monitoring the syslog for filesystem
+ errors on attached Volumes and displaying a useful warning to the
+ user

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dsctl-logwatcher 0.1-1\n"
+"Report-Msgid-Bugs-To: Discreete Linux Team <info@discreete-linux.org>\n"
+"POT-Creation-Date: 2013-09-06 09:59+0200\n"
+"PO-Revision-Date: 2013-09-06 10:02+0100\n"
+"Last-Translator: Discreete Linux Team <info@discreete-linux.org>\n"
+"Language-Team: de <de@li>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+
+#: upr-logwatcher.py:26
+#, python-format
+msgid "File system error on %(mountpoint)s (/dev/%(device)s. File system has been write protected."
+msgstr "Dateisystemfehler auf %(mountpoint)s (/dev/%(device)s). Dateisystem wurde schreibgeschützt."
+
+#: upr-logwatcher.py:36
+#, python-format
+msgid "File system error on %s. Please check as soon as possible!"
+msgstr "Dateisystemfehler auf %s. Bitte baldmöglichst prüfen!"
+
+#: upr-logwatcher.py:39
+#, python-format
+msgid ""
+"The Volume on %s contained open TrueCrypt Volumes.\n"
+"They have been closed forecfully."
+msgstr ""
+"Der Datenträger auf %s enthielt noch offene Truecrypt-Volumes.\n"
+"Sie wurden erzwungenermaßen geschlossen."
+
+#: upr-logwatcher.py:42
+#, python-format
+msgid "The USB connection %(portnum)i on hub %(hub)s was interrupted and re-activated. This could indicate problems with hardware or cables."
+msgstr "Der USB-Anschluss %(portnum)i am Hub %(hub)s wurde unterbrochen und reaktiviert. Dies könnte auf Probleme mit der Hardware oder Verkabelung hindeuten!"
+
+#: upr-logwatcher.py:50
+msgid "WARNING!"
+msgstr "WARNUNG!"
+
+#: upr-logwatcher.py:51
+msgid "A severe error has occured:"
+msgstr "Ein schwerwiegender Fehler ist aufgetreten:"
+

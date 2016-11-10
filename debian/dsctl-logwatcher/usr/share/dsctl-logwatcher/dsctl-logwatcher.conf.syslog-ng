@@ -1,0 +1,3 @@
+destination df_logwatcher { unix-dgram("/tmp/logwatcher.socket"); };
+filter f_faterr { match("FAT: Filesystem error" value(MSG)) or match("EXT3-fs error" value(MSG)) or match("Found open truecrypt volumes" value(MSG)); };
+log { source(s_src); filter(f_faterr); destination(df_logwatcher); };
